@@ -27,4 +27,5 @@
 
 * [Session 3A: Location and Human Mobility](session-3a-location-and-human-mobility.md)
 * [Session 3B: Touch, Gestures, and Posture](session-3b-touch-gestures-and-posture.md)
+* [Session 3C: Sensing III \(RF and other sensing modes\)](session-3c-sensing-iii-rf-and-other-sensing-modes.md)
 
