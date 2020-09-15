@@ -23,3 +23,7 @@
 * [Mobile User Interfaces](posters/mobile-user-interfaces.md)
 * [User Interfaces](posters/mobile-ui.md)
 
+---
+
+* [Session 3A: Location and Human Mobility](session-3a-location-and-human-mobility.md)
+
