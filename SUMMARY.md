@@ -33,4 +33,5 @@
 * [Session 4C: Human Activity Recognition I](session-4c-human-activity-recognition-i.md)
 * [Session 5A: Driving and Transportation](session-5a-driving-and-transportation.md)
 * [Session 5B: Speech Interaction + Fabrication](session-5b-speech-interaction-+-fabrication.md)
+* [Session 5C: Human Activity Recognition II](session-5c-human-activity-recognition-ii.md)
 
