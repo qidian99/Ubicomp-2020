@@ -29,4 +29,5 @@
 * [Session 3B: Touch, Gestures, and Posture](session-3b-touch-gestures-and-posture.md)
 * [Session 3C: Sensing III \(RF and other sensing modes\)](session-3c-sensing-iii-rf-and-other-sensing-modes.md)
 * [Session 4A: IoT and Software Tools](session-4a-iot-and-software-tools.md)
+* [Session 4B: Health and Well-Being II](session-4b-health-and-well-being-ii.md)
 
