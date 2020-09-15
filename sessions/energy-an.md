@@ -40,7 +40,7 @@
 
 ## Zygarde: Time-Sensitive On-Device Deep Inference and Adaptationon Intermittently-Powered Systems
 
-[https://doi.org/10.1145/3411808](https://doi.org/10.1145/3411808)
+{% embed url="https://doi.org/10.1145/3411808" %}
 
 {% embed url="https://youtu.be/tr\_r9nX-BWs" %}
 

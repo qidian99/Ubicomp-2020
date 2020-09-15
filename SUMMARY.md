@@ -13,7 +13,6 @@
 
 ---
 
-* [Untitled](untitled.md)
 * [Keynotes](keynotes-1.md)
 
 ## Posters
