@@ -26,4 +26,5 @@
 ---
 
 * [Session 3A: Location and Human Mobility](session-3a-location-and-human-mobility.md)
+* [Session 3B: Touch, Gestures, and Posture](session-3b-touch-gestures-and-posture.md)
 
