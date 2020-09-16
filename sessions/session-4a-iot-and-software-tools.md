@@ -1,5 +1,7 @@
 # Session 4A: IoT and Software Tools
 
+{% embed url="https://docs.google.com/document/d/13kH3U2p7PRqzASiiDF7uGtIoRjePcL88Xu---qmCc9M/edit?usp=sharing" %}
+
 ## IoT Inspector: Crowdsourcing Labeled Network Traffic from Smart Home Devices at Scale
 
 {% embed url="https://doi.org/10.1145/3397333" %}

@@ -1,5 +1,7 @@
 # Session 4B: Health and Well-Being II
 
+{% embed url="https://docs.google.com/document/d/13XKywlFidp5dzDOrEXCGOnPmmmM-fFI-IPyjnWwQU-s/edit?usp=sharing" %}
+
 ## Personalized HeartSteps: A Reinforcement Learning Algorithm for Optimizing Physical Activity
 
 {% embed url="https://doi.org/10.1145/3381007" %}
