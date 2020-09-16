@@ -52,5 +52,7 @@
 
 ## Q&A
 
+{% embed url="https://youtu.be/NBrws2oVvT4" %}
+
 
 

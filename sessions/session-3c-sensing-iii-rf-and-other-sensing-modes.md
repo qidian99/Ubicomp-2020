@@ -2,13 +2,19 @@
 
 ## mmASL: Environment-Independent ASL Gesture Recognition Using 60 GHz Millimeter-wave Signals
 
+{% embed url="https://youtu.be/wmhpFWr-CjQ" %}
+
 {% embed url="https://doi.org/10.1145/3381010" %}
 
 ## Probing Sucrose Contents in Everyday Drinks Using Miniaturized Near-Infrared Spectroscopy Scanners
 
+{% embed url="https://youtu.be/pkCS\_-ztPW4" %}
+
 {% embed url="https://doi.org/10.1145/3369834" %}
 
 ## MultiSense: Enabling Multi-person Respiration Sensing with Commodity WiFi
+
+{% embed url="https://youtu.be/mMl5o11QuVU" %}
 
 {% embed url="https://doi.org/10.1145/3411816" %}
 
@@ -20,6 +26,8 @@
 
 ## WiBorder: Precise Wi-Fi based Boundary Sensing via Through-wall Discrimination
 
+{% embed url="https://youtu.be/VevpaWBe6f4" %}
+
 {% embed url="https://doi.org/10.1145/3411834" %}
 
 ## RFID Tattoo: A Wireless Platform for Speech Recognition
@@ -30,9 +38,15 @@
 
 ## Exploring LoRa for Long-range Through-wall Sensing
 
+{% embed url="https://youtu.be/rkG-9bRCL\_0" %}
+
+
+
 {% embed url="https://doi.org/10.1145/3397326" %}
 
 ## FingerDraw: Sub-wavelength Level Finger Motion Tracking with WiFi Signals
+
+{% embed url="https://youtu.be/2pJOwLMqHoA" %}
 
 {% embed url="https://doi.org/10.1145/3380981" %}
 
@@ -43,4 +57,8 @@
 {% embed url="https://youtu.be/1fKqOkqgCGs" %}
 
 ## Q&A
+
+{% embed url="https://youtu.be/8N3U0Dz3owE" %}
+
+
 

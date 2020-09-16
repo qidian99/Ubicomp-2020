@@ -4,9 +4,13 @@
 
 ## IoT Inspector: Crowdsourcing Labeled Network Traffic from Smart Home Devices at Scale
 
+{% embed url="https://youtu.be/JpHlwAzoLJ0" %}
+
 {% embed url="https://doi.org/10.1145/3397333" %}
 
 ## MAAT: Mobile Apps As Things in the IoT
+
+{% embed url="https://youtu.be/RJsn1rT0j7Q" %}
 
 {% embed url="https://doi.org/10.1145/3369823" %}
 
@@ -18,9 +22,13 @@
 
 ## Mobile Device Batteries as Thermometers
 
+{% embed url="https://youtu.be/G2TDIXJpyuo" %}
+
 {% embed url="https://doi.org/10.1145/3381015" %}
 
 ## Design and Evaluation of DIO Construction Toolkit for Co-making Shared Constructions
+
+{% embed url="https://youtu.be/rJdFDNNZFcg" %}
 
 {% embed url="https://doi.org/10.1145/3369833" %}
 
@@ -32,13 +40,19 @@
 
 ## Trace2TAP: Synthesizing Trigger-Action Programs From Traces of Behavior
 
+{% embed url="https://youtu.be/Ep9-f2dyY24" %}
+
 {% embed url="https://doi.org/10.1145/3411838" %}
 
 ## Rataplan: Resilient Automation of User Interface Actions with Multi-modal Proxies
 
+{% embed url="https://youtu.be/V0RZSNBFFg0" %}
+
 {% embed url="https://doi.org/10.1145/3397329" %}
 
 ## Design Space and Usability of Earable Prototyping
+
+{% embed url="https://youtu.be/V0RZSNBFFg0" %}
 
 {% embed url="https://doi.org/10.1145/3410531.3414302" %}
 

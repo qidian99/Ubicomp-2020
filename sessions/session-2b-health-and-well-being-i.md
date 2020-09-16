@@ -64,5 +64,5 @@
 
 ## Q&A Panel
 
-
+{% embed url="https://youtu.be/6QQ7SoCrRsQ" %}
 

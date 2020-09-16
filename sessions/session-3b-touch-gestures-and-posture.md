@@ -30,23 +30,35 @@
 
 ## How Subtle Can It Get? A Trimodal Study of Ring-sized Interfaces for One-Handed Drone Control
 
+{% embed url="https://youtu.be/PoPtlESeKfo" %}
+
 {% embed url="https://doi.org/10.1145/3397319" %}
 
 ## Designing and Evaluating Hand-to-Hand Gestures with Dual Commodity Wrist-Worn Devices
+
+{% embed url="https://youtu.be/0iyynjEFJe4" %}
 
 {% embed url="https://doi.org/10.1145/3380984" %}
 
 ## Listen to Your Fingers: User Authentication based on Geometry Biometrics of Touch Gesture
 
+{% embed url="https://youtu.be/vOb0WsKN6WU" %}
+
 {% embed url="https://doi.org/10.1145/3411809" %}
 
 ## Wearable Magnetic Field Sensing for Finger Tracking
+
+{% embed url="https://youtu.be/Bjy7yEGq-sw" %}
 
 {% embed url="https://doi.org/10.1145/3410531.3414304" %}
 
 ## Facilitating Temporal Synchronous Target Selection through User Behavior Modeling
 
+{% embed url="https://youtu.be/J44H6O9pKSI" %}
+
 {% embed url="https://doi.org/10.1145/3369839" %}
 
 ## Q&A
+
+{% embed url="https://youtu.be/TK2okatEIvA" %}
 
